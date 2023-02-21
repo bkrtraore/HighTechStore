@@ -1,0 +1,12 @@
+#carouselExampleControls {
+    width:50%;
+    height:50%;
+    margin-left: 25%;
+}
+
+.carousel-control-prev-icon {
+    color: grey;
+}
+.carousel-control-next {
+    color: grey;
+}
